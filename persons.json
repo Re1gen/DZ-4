@@ -1,0 +1,18 @@
+[{
+    "name": "Naruto",
+    "age" : 16,
+    "image": "https://www.enjpg.com/img/2020/naruto-uzumaki-4.png"
+},
+{
+    "name": "Friren",
+    "age" : "???",
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6529da91c094161c0205c47d_654557968894c27fc3bd4953/scale_1200"
+},{
+    "name": "Saitama",
+    "age" : 25,
+    "image": "https://u.kanobu.ru/editor/images/52/d9b4f706-1b19-4cd1-bad7-e733370a46dc.webp"
+},{
+    "name": "Senku",
+    "age" : 3716,
+    "image": "https://animepersona.com/wp-content/uploads/2022/12/bbd4b0eaac330309dc54c8bfb071bf17.jpg"
+}]
